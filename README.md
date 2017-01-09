@@ -12,3 +12,5 @@ And have this as your ansible host vars:
   ansible_user: ikke
   ansible_become: true
 ```
+
+Credits for the script goes to (I recall) CQ in #freenas@freenode, which I modified a bit further to better suit my needs.
