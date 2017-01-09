@@ -8,7 +8,7 @@ and do run it in jail:
 And have this as your ansible host vars:
 ```
 [jails:vars]
-  ansible_python_interpreter=/usr/local/bin/python2.7
+  ansible_python_interpreter=/usr/local/bin/python
   ansible_user: ikke
   ansible_become: true
 ```
