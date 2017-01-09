@@ -1,7 +1,7 @@
 # prepare-freenas-jail-for-ansible
 This repo just holds helper script to prepare FreeNAS FreeBSD jail for ansible
 
-Copy this file into your /<jail path>/tmp/prep-jail-for-ansible.sh
+Copy this file into your ```/<jail path>/tmp/prep-jail-for-ansible.sh```
 and do run it in jail:
   ```jexec <jail name> /tmp/prep-jail-for-ansible.sh```
   
